@@ -1,8 +1,11 @@
+//Harsh kumar
+//prn 24070123146
+//B3
 #include <iostream>
 using namespace std ;
 int main(){
-    int count , n, n2 = 0;
- cout << "input the no.of subjcts :  " ;
+    int count , n, n2 = 0; //assigning of variable
+ cout << "input the no.of subjcts :  " ; //choice for no. of subjects
  cin >> count ; 
     for (int i = 0; i < count; i++)
     { int n1;
@@ -15,7 +18,7 @@ int main(){
         cout << "invalid marks \n" ;
     } }
     n = n2/count ;
-    if (n>=95 ){
+    if (n>=95 ){ //condition for grading
         cout << "Grade O" ;
     }
     else if (n>80 && n<95)
