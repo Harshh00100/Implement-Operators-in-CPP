@@ -37,3 +37,24 @@ int main(){
     cout << "GRADE FAIL"  ;}
 return 0;
 }
+
+/* output: 
+input the no.of subjcts :  3
+enter marks  subject  1
+12
+enter marks  subject  2
+34
+enter marks  subject  3
+67
+GRADE FAIL
+
+input the no.of subjcts :  3
+enter marks  subject  1
+10
+enter marks  subject  2
+100
+enter marks  subject  3
+102
+invalid marks 
+GRADE FAIL 
+*/
