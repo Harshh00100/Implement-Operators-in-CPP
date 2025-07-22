@@ -19,3 +19,7 @@ int main(){
     
 return 0;
 }
+
+/* output:
+input the number 34
+number is positive */
