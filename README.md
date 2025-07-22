@@ -9,6 +9,9 @@ c.Identify the coordinate quadrant of a point.
 Apparatus: 
 GNU g++ compiler and Any code editor 
 
+Algorithm:
+
+
 Program 1:
 Check if a Number is Positive, Negative, or Zero
 program is an example of illustrates the application of relational operators (>, <, ==) with conditional statements (if, else if, else)
